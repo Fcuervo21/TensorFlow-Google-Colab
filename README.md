@@ -18,6 +18,13 @@ En este tutorial vamos a aprender:
 
 ![Pestaña Google Colaboratory](https://user-images.githubusercontent.com/122324007/223323146-fb9f3bda-fea0-4dd3-b8e5-053e36b95502.png)
 
+3- Introduce la siguiente línea de código en una nueva celda de código y da click al boton de ejecutar celda:
+
+![!pip install tensorflow](https://user-images.githubusercontent.com/122324007/223323637-25aa5824-b79d-4a53-9afe-420ec2d4e754.png)
+
+4- Deberán aparecer varias líneas de código que indican que todo está correcto con el mensaje "Requirement already satisfied"
+![image](https://user-images.githubusercontent.com/122324007/223323987-58bdae8e-d99c-4819-9d66-3f1f767a269c.png)
+
 ## Ejemplo Practico
 Hello World Ejemplo
 ```sh
