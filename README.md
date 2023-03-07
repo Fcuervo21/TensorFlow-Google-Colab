@@ -8,6 +8,9 @@ En este tutorial vamos a aprender:
 - Como instalar Google Colaboratory en Google Drive
 - Como instalar TensorFlow
 - ...
+- ...
+
+
 ## Instalar la extensión de Google Colab en Google Drive
 
 1- Abre Google Drive y selecciona la opción de "Nuevo" que se encuentra en la parte superior izquierda de la pantalla
@@ -22,10 +25,10 @@ En este tutorial vamos a aprender:
 4- Selecciona la opción "Instalar"
 ![image](https://user-images.githubusercontent.com/122324007/223331738-fd56dad2-adde-4083-a7ba-b5cd6502afb6.png)
 
-5- Das click en 
+5- Das click en "Continuar", seguido de "Hecho"
 ![image](https://user-images.githubusercontent.com/122324007/223331909-bb3736e2-aa5a-4eb0-959f-ff2d93a0eaf2.png)
 
-
+Ya estás listo para crear un bloc de notas de Google Colab
 
 
 ## Instalar TensorFlow
