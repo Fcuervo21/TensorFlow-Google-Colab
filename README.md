@@ -5,6 +5,7 @@ Este es un tutorial para poder instalar e iniciar a trabajar TensorFlow en Googl
 
 En este tutorial vamos a aprender:
 - ...
+- Como instalar Google Colaboratory en Google Drive
 - Como instalar TensorFlow
 - ...
 
@@ -30,6 +31,7 @@ En este tutorial vamos a aprender:
 
 ![revisar version de TF](https://user-images.githubusercontent.com/122324007/223325190-a1c78ae9-1834-49b7-8163-1f899da30c39.png)
 
+Has instalado TensorFlow en tu bloc de notas de Colab
 
 ## Ejemplo Practico
 Hello World Ejemplo
