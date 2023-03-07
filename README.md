@@ -61,9 +61,6 @@ Ya estás listo para crear un bloc de notas de Google Colab
 
 Has instalado TensorFlow en tu bloc de notas de Colab
 
-## Ejemplo Practico
-Hello World Ejemplo
-```sh
-print("Hello World")
+## Resto de títulos ...
 
-```
+
